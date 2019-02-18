@@ -1,10 +1,10 @@
 # MongoDB
 ## SS postman
 ### 1. Database
-![database](assets/database.png)
+![database](assets/database.PNG)
 
 ### 2. Delete
-![delete](assets/delete.png)
+![delete](assets/delete.PNG)
 
 ### 3. Update
-![update](assets/update.png)
+![update](assets/update.PNG)
